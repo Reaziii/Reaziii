@@ -28,7 +28,7 @@ Apart from my dedication to competitive programming, I have a budding interest i
 - Hashpatal - This is a PHP based web app where a hospital can maintain doctors apointments.
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reaziii&show_icons=true&theme=dark)
+![reaziii's Stats](https://github-readme-stats.vercel.app/api?username=reaziii&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
 
 ## Education
