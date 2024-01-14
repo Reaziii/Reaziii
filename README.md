@@ -8,6 +8,7 @@ Apart from my dedication to competitive programming, I have a budding interest i
 ## Experience and Achievements
 - First Runners Up in NASA Space Apps Challenge Bangladesh Chittagong Division.
 - ICPC Asia West Continent Finalist 2021.
+- Samsung R&D Code Contest 2023 Finalist
 
 ## Competitive Coding Profiles
 - Codechef: [Codechef Profile](https://www.codechef.com/users/reaziii)
